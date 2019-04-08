@@ -6,7 +6,7 @@ These are available now as a resource for others to use to help practice and tea
 Each challenge is the respective work of the listed author. The flags are not listed so you can give them to others as a teaching resource
 without spoiling the challenge, however the `SHA-256` sum of every flag is included so you can check your work.
 
-Not every challenge from the CTF is included here, as some required on-site participation or are no longer reachable (such as the hardware challenge, web challenges, pwn challenges, misc challenges, and some sponsor challenges).
+__NOTE__: Not every challenge from the CTF is included here, as some required on-site participation or are no longer reachable (such as the hardware challenge, web challenges, pwn challenges, misc challenges, and some sponsor challenges).
 
 # Challenge authors
   * [Towel](https://www.twitter.com/0xTowel)
