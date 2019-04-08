@@ -17,8 +17,8 @@ __NOTE__: Not every challenge from the CTF is included here, as some required on
   * [Towel](https://www.twitter.com/0xTowel)
   * [Shplaz](https://github.com/wesley27)
   * [Lumpus](https://github.com/1umpus)
-  * [yampelo](https://github.com/yampelo)
-  * [jsfleming](https://jsfleming.github.io)
+  * [Yampelo](https://github.com/yampelo)
+  * [Jsfleming](https://jsfleming.github.io)
 
 
 # Reuse
