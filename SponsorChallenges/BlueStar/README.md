@@ -1,6 +1,6 @@
 Blue Star Accounting
 -------------------------------------------------------------------------------------------------------
-Blue Star Software has recently gireda new intern to write an accounting program. The intern specified
+Blue Star Software has recently hired a new intern to write an accounting program. The intern specified
 that they were new to C/C++ and would do their best! In a mad rush to meet deadlines, the intern
 accidentally pushed an extremely buggy version of the program to prduction :-0
 
